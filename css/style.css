@@ -1,4 +1,16 @@
-*{border: 0.5px red dotted;}
+/* *{border: 0.5px red dotted;} */
 
+:root {
+    
+    --bs-primary: #1abc9c;
+    --bs-primary-rgb: 25,189,156;
 
-.col-12.col-md-6.col-lg-4 img{display: block;width: 100%;}
+    --bs-secondary: #3a546d;
+    --bs-secondary-rgb: 68,84,109;
+
+    --bs-dark: #2c3e50;
+    --bs-dark-rgb: 44,62,80;
+}
+
+.hamburger-nav{padding: 1rem;
+border: 0.5px solid white ;}
